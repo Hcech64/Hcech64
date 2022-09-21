@@ -1,4 +1,4 @@
-### Hello there, nice to meet you. I'm Henry, and I love to learn✏.
+```### Hello there, nice to meet you. I'm Henry, and I love to learn✏.```
 
 I am a student at 🏫La Salle Catholic College Preperatory in Clackams Oregon. I am a Junior captain of the 🤖Robotics tream there, Maker Industries. 
 I am getting into the diy/maker spaces of 3D printing, raspberry pi projects and other diy electronics.
@@ -8,8 +8,6 @@ I am getting into the diy/maker spaces of 3D printing, raspberry pi projects and
 |---|---|---|
 |🐍Python  | Arduino IDE| Java|
 |Minecraft Commads  | Bash | HTML|
-|   |   | |
-|   |   | |
 
 
 <!--
