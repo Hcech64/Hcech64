@@ -2,6 +2,8 @@
 
 I am a student at 🏫La Salle Catholic College Preperatory in Clackams Oregon. I am a Junior captain of the 🤖Robotics tream there, Maker Industries. 
 I am getting into the diy/maker spaces of 3D printing, raspberry pi projects and other diy electronics.
+
+
 <!--
 **Hcech64/Hcech64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
