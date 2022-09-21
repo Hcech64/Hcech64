@@ -6,10 +6,10 @@ I am getting into the diy/maker spaces of 3D printing, raspberry pi projects and
 #### Languages:
 |Primary|Secondary|Learning|
 |---|---|---|
-|   | | |🐍Python
-|   | | |Java
-|   | | |
-|   | | |
+|   |   |🐍Python |
+|   |   | Java|
+|   |   | |
+|   |   | |
 
 
 <!--
