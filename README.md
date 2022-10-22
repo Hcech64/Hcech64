@@ -1,7 +1,7 @@
 
 ### Hello there, nice to meet you. I'm Henry, and I love to learn.
 
-I am a student at 🏫La Salle Catholic College Preperatory in Clackams Oregon. I am a Captain of the La Salle 🤖Robotics team, Maker Industries. 
+I am a student at 🏫La Salle Catholic College Preperatory in Clackams Oregon. I am the Captain of the La Salle 🤖Robotics team, Maker Industries. 
 I am into the diy/maker spaces of 3D printing, raspberry pi projects, self hosting and other diy electronics.
 
 #### Languages:
