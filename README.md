@@ -7,7 +7,7 @@ I am into the diy/maker spaces of 3D printing, raspberry pi projects, self hosti
 #### Languages:
 |Primary|Secondary|Learning|
 |---|---|---|
-|🐍Python  | Arduino IDE| Java|
+| Java  | Arduino IDE| Python|
 |Minecraft Commads  | Bash | HTML|
 
 
