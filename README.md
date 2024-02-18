@@ -10,6 +10,15 @@ I am into the diy/maker spaces of 3D printing, raspberry pi projects, self hosti
 | Java  | Arduino IDE| Python|
 |Minecraft Commads  | Bash | HTML|
 
+<h3 align="left">My Stats:</h3>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hcech64&show_icons=true&locale=en&layout=compact" alt="Hcech64" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hcech64&show_icons=true&locale=en" alt="Hcech64" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hcech64&" alt="Hcech64" /></p>
+
 
 <!--
 **Hcech64/Hcech64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
